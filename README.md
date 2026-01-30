@@ -19,8 +19,6 @@ $UPD="$Root\25H2_updates"
 
 $MNT_I="$Root\Mount_Install"
 
-$OutISO="$Root\Win11_25H2_Pro_Custom.iso"
-
 
 # --- MENU ---
 1. Détection des KB + Index
